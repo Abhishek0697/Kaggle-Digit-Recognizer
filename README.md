@@ -5,6 +5,5 @@ MNIST ("Modified National Institute of Standards and Technology") is the de fact
 In this competition, your goal is to correctly identify digits from a dataset of tens of thousands of handwritten images.
 
 
-
-[Pytorch CNN Implementation on MNIST Dataset](https://www.kaggle.com/iamabhishekdas/pytorch-cnn-implementation-on-mnist-dataset)
+Read the notebook [Pytorch CNN Implementation on MNIST Dataset](https://www.kaggle.com/iamabhishekdas/pytorch-cnn-implementation-on-mnist-dataset)
 
